@@ -9,7 +9,7 @@ Repositório do teste para a Kalendae
 
 ### Procedimento
 
-No terminal entrar na pasta `src`, e executar os seguintes comandos:
+No terminal acessar a pasta do projeto e entrar na pasta `src`, então executar os seguintes comandos:
 
 - `javac Fibonacci.java`
 - `javac StringInverter.java`
